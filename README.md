@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FloatingPointError
 - 👀 I’m interested in full stack development, open source, everything Python
-- 🌱 I’m currently learning PHP, Javascript, Laravel, Moodle
+- 🌱 I’m currently learning PHP, Javascript, Laravel, Moodle, Django, PySimpleGUI
 - 💞️ I’m looking to collaborate on Moodle
 - 📫 How to reach me: reach out to me on github ;)
 
